@@ -2,6 +2,8 @@
 
 ![xsukax.com](https://xsukax.net/badge.php?badge=xsukax-Face%20Recognition%20Installer-grey-red-FFF.svg)
 
+![xsukax-Face-Recognition-Installer](https://raw.githubusercontent.com/xsukax/xsukax-Face-Recognition-Installer/refs/heads/main/xsukax%20Face%20Recognition%20Installer.png)
+
 A comprehensive, privacy-focused face recognition application that enables secure identification and management of individuals through advanced facial detection technology. Built with modern web technologies and designed for self-hosted deployment, ensuring complete data sovereignty and privacy protection.
 
 ## Project Overview
